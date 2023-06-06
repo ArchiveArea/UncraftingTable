@@ -1,0 +1,6 @@
+---
+name: UncraftingTable
+version: 0.0.1
+main: NhanAZ\UncraftingTable\Main
+api: 5.0.0
+...

@@ -1,0 +1,13 @@
+{
+    "uncrafting_table": {
+        "sound": "wood",
+        "textures": {
+            "down": "uncrafting_table_bottom",
+            "east": "uncrafting_table_side",
+            "north": "uncrafting_table_front",
+            "south": "uncrafting_table_front",
+            "up": "uncrafting_table_top",
+            "west": "uncrafting_table_side"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "UncraftingTable Resource Pack",
+        "name": "UncraftingTable",
+        "uuid": "e0c989ec-adf3-48bc-9fdf-172b7a6a8685",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            30
+        ]
+    },
+    "modules": [
+        {
+            "description": "UncraftingTable Resource Pack",
+            "type": "resources",
+            "uuid": "d33efc2d-d4d7-494a-9258-f27d601e495a",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "NhanAZ"
+        ],
+        "url": "https://github.com/NhanAZ"
+    }
+}

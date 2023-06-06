@@ -1,0 +1,16 @@
+{
+    "texture_data": {
+        "uncrafting_table_top": {
+            "textures": "textures/blocks/crafting_table_front"
+        },
+        "uncrafting_table_bottom": {
+            "textures": "textures/blocks/planks_oak"
+        },
+        "uncrafting_table_side": {
+            "textures": "textures/blocks/crafting_table_side"
+        },
+        "uncrafting_table_front": {
+            "textures": "textures/blocks/crafting_table_top"
+        }
+    }
+}
